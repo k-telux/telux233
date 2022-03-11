@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\telux\source\repos\时间管理\源.cpp(78,24): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+C:\Users\telux\source\repos\时间管理\源.cpp(83,7): warning C4101: “rate”: 未引用的局部变量
+C:\Users\telux\source\repos\时间管理\源.cpp(205,14): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+C:\Users\telux\source\repos\时间管理\源.cpp(225,7): warning C4101: “c”: 未引用的局部变量
+C:\Users\telux\source\repos\时间管理\源.cpp(424,31): warning C4244: “=”: 从“const wchar_t”转换到“TCHAR”，可能丢失数据
+C:\Users\telux\source\repos\时间管理\源.cpp(425,64): warning C4244: “=”: 从“const wchar_t”转换到“TCHAR”，可能丢失数据
+C:\Users\telux\source\repos\时间管理\源.cpp(426,21): warning C4244: “=”: 从“const wchar_t”转换到“TCHAR”，可能丢失数据
+C:\Users\telux\source\repos\时间管理\源.cpp(801,4): warning C4551: 缺少参数列表的函数调用
+C:\Users\telux\source\repos\时间管理\源.cpp(925,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  时间管理.vcxproj -> C:\Users\telux\source\repos\时间管理\Debug\时间管理.exe
